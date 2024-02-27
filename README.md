@@ -1,6 +1,6 @@
 # 🚀 **Profil Saya**
 
-![Foto Profil](https://drive.google.com/file/d/1lXOl_N588nxO2bfQeUQHYYhk-Ivkcs_L/view?usp=drive_link)
+![Foto Profil](pp.jpg)
 
 ## 👋 Perkenalan Singkat
 Selamat datang! Saya Nieto Salim Maula, seorang _Mahasiswa_ *Politeknik Bandung* juga seorang pengembang bersemangat yang selalu mencari tantangan baru dalam dunia teknologi. Saya percaya bahwa setiap baris kode memiliki potensi untuk menciptakan sesuatu yang luar biasa.

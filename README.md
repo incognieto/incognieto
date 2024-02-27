@@ -35,7 +35,7 @@ Scrabble merupakan sebuah inovasi Proyek Kreatif Berkelompok berbasis Aplikasi y
 - **SMK Negeri 1 Cimahi (2019 - 2023)**
 
 ## 📬 Cara Menghubungi Saya
-Anda dapat menghubungi saya melalui:
+Jangan ragu untuk menghubungi saya jika Anda memiliki pertanyaan, ide kolaborasi, atau sekadar ingin berbincang tentang teknologi. Saya senang berbagi pengetahuan dan pengalaman! Anda dapat menghubungi saya melalui:
 - **Email:** nietosalimmaula@gmail.com
 - **LinkedIn:** Nieto Salim Maula
 - **Instagram:** @nieto5maula
@@ -46,5 +46,3 @@ Anda dapat menghubungi saya melalui:
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
-
-Jangan ragu untuk menghubungi saya jika Anda memiliki pertanyaan, ide kolaborasi, atau sekadar ingin berbincang tentang teknologi. Saya senang berbagi pengetahuan dan pengalaman!

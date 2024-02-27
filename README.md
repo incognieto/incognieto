@@ -5,7 +5,7 @@
 </div>
 
 ## 👋 Perkenalan Singkat
-Selamat datang! Saya Nieto Salim Maula, seorang _Mahasiswa_ *Politeknik Bandung* juga seorang pengembang bersemangat yang selalu mencari tantangan baru dalam dunia teknologi. Saya percaya bahwa setiap baris kode memiliki potensi untuk menciptakan sesuatu yang luar biasa.
+Selamat datang! Saya Nieto Salim Maula, seorang _Mahasiswa_ **Politeknik Bandung** juga seorang pengembang bersemangat yang selalu mencari tantangan baru dalam dunia teknologi. Saya percaya bahwa setiap baris kode memiliki potensi untuk menciptakan sesuatu yang luar biasa.
 
 ## 💻 Teknologi yang Saya Kuasai
 Saya memiliki keahlian dalam beberapa teknologi terkini, termasuk:

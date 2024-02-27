@@ -1,7 +1,7 @@
 # 🚀 **Profil Saya**
 
 <div style="display: flex; justify-content: center; align-items: center; text-align: center;">
-    <img src="pp.jpg" alt="Foto Profil" width="200" height="200">
+    <img src="img/profilpict.png" alt="Foto Profil" width="200" height="200">
 </div>
 
 ## 👋 Perkenalan Singkat

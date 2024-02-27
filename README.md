@@ -1,8 +1,8 @@
 # 🚀 **Profil Saya**
 
-<center>
+<div align="center">
     <img src="img/profilpict.png" alt="Foto Profil" width="200" height="200" style="margin: auto;">
-</center>
+</div>
 
 ## 👋 Perkenalan Singkat
 Selamat datang! Saya Nieto Salim Maula, seorang _Mahasiswa_ *Politeknik Bandung* juga seorang pengembang bersemangat yang selalu mencari tantangan baru dalam dunia teknologi. Saya percaya bahwa setiap baris kode memiliki potensi untuk menciptakan sesuatu yang luar biasa.

@@ -40,5 +40,11 @@ Anda dapat menghubungi saya melalui:
 - **LinkedIn:** Nieto Salim Maula
 - **Instagram:** @nieto5maula
 - **Youtube:** Nieto Salim Maula
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
 
 Jangan ragu untuk menghubungi saya jika Anda memiliki pertanyaan, ide kolaborasi, atau sekadar ingin berbincang tentang teknologi. Saya senang berbagi pengetahuan dan pengalaman!
